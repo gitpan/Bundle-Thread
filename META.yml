@@ -1,0 +1,13 @@
+--- #YAML:1.0
+name:                Bundle-Thread
+version:             1.01
+abstract:            A bundle of modules for supporting threads in Perl
+license:             perl
+author:              
+    - Jerry D. Hedden <jdhedden AT cpan DOT org>
+generated_by:        ExtUtils::MakeMaker version 6.43_01
+distribution_type:   module
+requires:     
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
