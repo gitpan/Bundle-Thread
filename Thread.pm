@@ -3,7 +3,7 @@ package Bundle::Thread;
 use strict;
 use warnings;
 
-our $VERSION = '1.12';
+our $VERSION = '1.13';
 $VERSION = eval $VERSION;
 
 1;
@@ -22,11 +22,11 @@ Bundle::Thread - A bundle of modules for supporting threads in Perl
 
 Test::Simple 0.94               - Used for module testing
 
-Scalar::Util 1.22               - Used by several of the other modules below
+Scalar::Util 1.23               - Used by several of the other modules below
 
-threads 1.75                    - Support for threads
+threads 1.76                    - Support for threads
 
-threads::shared 1.32            - Support for sharing objects between threads
+threads::shared 1.33            - Support for sharing objects between threads
 
 Thread::Semaphore 2.09          - Thread-safe semaphores
 
