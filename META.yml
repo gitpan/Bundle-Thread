@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bundle-Thread
-version:            1.15
+version:            1.16
 abstract:           A bundle of modules for supporting threads in Perl
 author:
     - Jerry D. Hedden <jdhedden AT cpan DOT org>
